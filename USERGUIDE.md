@@ -1,4 +1,6 @@
 # myHadoop User Guide
+See further notes on Glenn's blog:
+http://users.sdsc.edu/~glockwood/di/hadoop-hpc.php#step:script
 
 This guide assumes the following:
 
